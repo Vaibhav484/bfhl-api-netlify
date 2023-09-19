@@ -1,0 +1,10 @@
+{
+    "name": "my-api-project",
+    "version": "1.0.0",
+    "description": "API for Netlify Functions",
+    "scripts": {
+      "build": "echo 'No build step required'"
+    },
+    "dependencies": {}
+  }
+  
